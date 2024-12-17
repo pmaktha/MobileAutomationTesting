@@ -1,0 +1,16 @@
+Open the GAP mobile app
+Click on all continue buttons
+Click on the homepage image displayed on the dashboard
+Select the first item and click on it
+Swipe up and select the size
+click on Add to Cart
+Verify the product is added to the cart successfully by "shipping" message
+
+Key Points to notice in the automation of test case:
+-->In this Project I automated Gap Android mobile app functionality using Appium.
+-->Refer to the GapApp Test and GapMethods classes in test folder for this automation of test case.
+-->I used Java as a Programming language and Maven as build Automation tool by adding necessary dependencies in pom.xml file.
+-->I used real android device to test the app with the help of Vysor to connect to the laptop. I haven't used any emulators.
+-->I inspected the elements using Appium Inspector.
+-->I used TestNG for the assertions.
+-->I organized the project by separating the methods and used testNG annotations for clean understanding.
